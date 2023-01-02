@@ -1,0 +1,5 @@
+# Player.FM history
+
+- 27\. 12. 2021: <img width="16" height="16" src="https://cdn.player.fm/images/24258074/series/0ljBTjOyxqi6r2eD/32.jpg"> [Out of Beta](https://player.fm/series/out-of-beta-2517215) — [Gearing Up For 2022](https://player.fm/series/out-of-beta-2517215/gearing-up-for-2022) (39:26)
+- 25\. 12. 2021: <img width="16" height="16" src="https://cdn.player.fm/images/23248529/series/j2ewcsL0PG6EizpL/32.png"> [ShopTalk](https://player.fm/series/shoptalk-2482845) — [486: Keeping Up the New Web Things, Dealing with Spicy Sections, a Cloudinary Follow-Up, and some Apple Problems Persist](https://player.fm/series/shoptalk-2482845/ep-486-keeping-up-the-new-web-things-dealing-with-spicy-sections-a-cloudinary-follow-up-and-some-apple-problems-persist) (1:00:10)
+- 25\. 12. 2021: <img width="16" height="16" src="https://cdn.player.fm/images/23248529/series/j2ewcsL0PG6EizpL/32.png"> [ShopTalk](https://player.fm/series/shoptalk-2482845) — [485: Building Websites Now vs 1996, Vue 3, Picking a CMS, and Writing a Book with URLs](https://player.fm/series/shoptalk-2482845/ep-485-building-websites-now-vs-1996-vue-3-picking-a-cms-and-writing-a-book-with-urls) (58:18)
