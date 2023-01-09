@@ -11,4 +11,4 @@ $ npm i
 $ npm run start
 ```
 
-The node script will produce a `out.md` file
+The node script will produce a `out.md` and `out.json` file
