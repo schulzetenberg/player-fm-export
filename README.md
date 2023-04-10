@@ -4,6 +4,7 @@
 2. Go to <https://player.fm/{YOUR_USERNAME}/play-history/all>
 3. Scroll all the way down the page to get the complete listening history
 4. Download the HTML using a Chrome extension such as [Save Page WE](https://chrome.google.com/webstore/detail/save-page-we/dhhpefjklgkmgeafimnjhojgjamoafof/related?hl=en-US)
+5. Replace the `player-fm-history.html` file with the downloaded HTML file
 4. Run:
 
 ```console
